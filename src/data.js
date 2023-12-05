@@ -8,7 +8,7 @@ const Data = [
       startDate: "16 Oct, 2022",
       endDate: "19 Nov, 2022",
       description:
-        "Mount Kilimanjaro is Africa’s tallest mountain and the world’s largest free-standing mountain.",
+        "Mount Kilimanjaro is Africa’s tallest mountain and the world’s largest free-standing mountain. With a staggering view and colorful flora & fauna, it never ceases to amaze humans.",
       imageUrl: require("./assets/kilimanjaro.jpg"),
       },
   
