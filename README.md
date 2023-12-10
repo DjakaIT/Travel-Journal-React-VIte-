@@ -1,6 +1,6 @@
 # Travel journal React(VIte) 
 My first React project, powered on Vite, fully by myself. 
-This is a solution to a solo project I was given to do on Scrimba. Scrimba is a widely used platform to lear or sharpen coding skills.
+This is a solution to a solo project I was given to do on Scrimba. Scrimba is a widely used platform to learn or sharpen coding skills.
 
 ## Requirements
 * Use .map() and props
